@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  
-</head>
-<body>
 
   <h1>👋 Olá, eu sou Marcelo</h1>
   <p>Desenvolvedor em formação, apaixonado e intusiasta por tecnologia e inovação.</p>
@@ -189,6 +181,3 @@
   <br/>
 <br/>
   <p>© 2025 Marcelo Gomes — Desenvolvedor Web & Full Stack.</p>
-
-</body>
-</html>
