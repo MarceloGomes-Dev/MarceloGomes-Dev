@@ -144,15 +144,26 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MarceloGomes-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style="padding-right: 10px;"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloGomes-Dev&theme=vue-dark&hide_border=true" 
   />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGomes-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+  />
+
+
 
 </p>
 
