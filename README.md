@@ -134,7 +134,7 @@
 />
 
 
-<br/>
+
 
  ### 📊 Estatísticas
 
@@ -165,7 +165,7 @@
     <div class="contact">
       <a href="marceloag57@gmail.com">Email</a>
       <a href="https://www.linkedin.com/in/marcelo-gomes-4306aa238/" target="_blank">LinkedIn</a>
-      <a href="https://marcelogomes-dev.github.io/new-test/" target="_blank">Portfólio</a>
+      <a href="https://marcelogomes-dev.github.io/new-test/" target="_blank">Portfólio</a> </div>
   
   
   <p>© 2025 Marcelo Gomes — Desenvolvedor Web & Full Stack.</p>
