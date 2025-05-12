@@ -18,7 +18,12 @@
       <li>📚 Interesses: DevOps, Inteligência Artificial, UX Design</li>
     </ul>
 
+<br/>
+<br/>
   ### 🤖 Linguagens e Tecnologias
+<br/>
+<br/>
+
 
 <img 
     align="left" 
@@ -132,7 +137,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<br/>
+<br/>
 
 
 
@@ -155,19 +161,27 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGomes-Dev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
   />
 
-
+<br/>
+<br/>
 
 
 </p>
 
- 
-   <h2>🤝 Contato</h2>
-    <div class="contact">
-      <a href="marceloag57@gmail.com">Email</a>
-      <a href="https://www.linkedin.com/in/marcelo-gomes-4306aa238/" target="_blank">LinkedIn</a>
-      <a href="https://marcelogomes-dev.github.io/new-test/" target="_blank">Portfólio</a> </div>
+ <br/>
+<br/>
+    <br/>
+<br/> <br/>
+<br/>
+
+  <h2>🤝 Contato</h2>
+  <p>
+    📧 <a href="mailto:seu@email.com">Email</a> |
+    💼 <a href="https://www.linkedin.com/in/marcelo-gomes-4306aa238/">LinkedIn</a> |
+    🌐 <a href="https://marcelogomes-dev.github.io/new-test/">Portfólio</a>
+  </p>
   
-  
+  <br/>
+<br/>
   <p>© 2025 Marcelo Gomes — Desenvolvedor Web & Full Stack.</p>
 
 </body>
