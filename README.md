@@ -44,7 +44,7 @@
   </section>
 
   <h2>📈 Estatísticas do GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Usuarios&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=default" alt="Top Languages" />
 
  
