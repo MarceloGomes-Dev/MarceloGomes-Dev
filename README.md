@@ -133,7 +133,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
+
 <br/>
 
  ### 📊 Estatísticas
@@ -144,7 +144,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarceloGomes-Dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=MarceloGomes-Dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" 
   />
 
 <img 
@@ -152,7 +152,7 @@
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloGomes-Dev&theme=vue-dark&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGomes-Dev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
   />
 
 <img 
@@ -160,7 +160,7 @@
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGomes-Dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloGomes-Dev&theme=tokyonight&hide_border=false" 
   />
 
 
@@ -174,7 +174,7 @@
       <a href="https://www.linkedin.com/in/marcelo-gomes-4306aa238/" target="_blank">LinkedIn</a>
       <a href="https://marcelogomes-dev.github.io/new-test/" target="_blank">Portfólio</a>
   
-  <hr />
+  
   <p>© 2025 Seu Nome — Desenvolvedor Web & Full Stack.</p>
 
 </body>
