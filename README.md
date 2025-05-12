@@ -155,13 +155,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloGomes-Dev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloGomes-Dev&theme=tokyonight&hide_border=false" 
-  />
 
 
 
@@ -175,7 +168,7 @@
       <a href="https://marcelogomes-dev.github.io/new-test/" target="_blank">Portfólio</a>
   
   
-  <p>© 2025 Seu Nome — Desenvolvedor Web & Full Stack.</p>
+  <p>© 2025 Marcelo Gomes — Desenvolvedor Web & Full Stack.</p>
 
 </body>
 </html>
