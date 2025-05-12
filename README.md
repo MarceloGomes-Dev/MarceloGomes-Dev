@@ -179,6 +179,12 @@
     💼 <a href="https://www.linkedin.com/in/marcelo-gomes-4306aa238/">LinkedIn</a> |
     🌐 <a href="https://marcelogomes-dev.github.io/new-test/">Portfólio</a>
   </p>
+
+   <br/>
+<br/>
+    <br/>
+<br/> <br/>
+<br/>
   
   <br/>
 <br/>
